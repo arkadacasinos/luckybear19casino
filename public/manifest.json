@@ -1,0 +1,17 @@
+{
+  "name": "Lucky Bear Casino",
+  "short_name": "Lucky Bear",
+  "description": "Lucky Bear Casino — современное казино онлайн",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2326",
+  "theme_color": "#1a2326",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/lucky-bear-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
